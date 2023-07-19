@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Physiotherapy Questionnaires Online](https://github.com/mardesonH/PQOnline)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **nestJS and Docker**
 
 - 📫 How to reach me **mardeson@gmail.com**
 
